@@ -1,2 +1,2 @@
 # jma
-this is my njenkins file tom build, test and deploy ba simple applicaction 
+this is my jenkins file to build, test and deploy ba simple applicaction 
